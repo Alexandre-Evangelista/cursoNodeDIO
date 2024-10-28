@@ -1,0 +1,13 @@
+{
+  "name": "02-inicializandoprojeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open":"echo \"ola mundo\" && exit 1"
+  },
+  "keywords": ["project"],
+  "author": "alexandre",
+  "license": "ISC",
+  "description": "meu primeiro projeto nodeJS"
+}
