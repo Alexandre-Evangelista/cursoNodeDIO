@@ -1,5 +1,5 @@
-import { getFullName,getProdutcLabel, productType } from './services/products.js';
-import { devArea } from './services/config.js';
+import { getFullName,getProdutcLabel, productType } from './services/products.mjs';
+import  devArea from './services/config.js';
 import * as db from './services/database.js'
 
 async function main() {
